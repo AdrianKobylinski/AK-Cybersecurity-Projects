@@ -19,9 +19,9 @@ The content relies on several psychological manipulation techniques, including:
 
 The email shows significant inconsistencies between the visible sender and the actual sending infrastructure.
 
-From: banco.bradesco@atendimento.com.br
+From: "banco.bradesco@atendimento.com."
 Return-Path: root@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06
-Message-ID: <20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>
+Message-ID: "<20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>"
 
 The visible sender domain (atendimento.com.br) does not match the actual sending host, which is a Linux-based VPS hostname. Additionally, the use of the root system account in the Return-Path strongly indicates automated or misconfigured mail delivery rather than legitimate corporate infrastructure.
 
