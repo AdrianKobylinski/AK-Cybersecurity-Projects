@@ -175,11 +175,10 @@ Authentication mechanisms were evaluated:
 
 | Category                | Level |
 | ----------------------- | ----- |
-| Social Engineering      | High |
-| Sender Legitimacy       | Low |
-| Infrastructure Trust    | Low |
-| Authentication Validity | Low |
-| IP Reputation           | Medium |
+| Social Engineering Risk     | High |
+| Sender Legitimacy Risk      | High |
+| Infrastructure Risk | High |
+| Authentication Risk | High |
 | URL Risk                | High |
 | Overall Risk            | High |
 
