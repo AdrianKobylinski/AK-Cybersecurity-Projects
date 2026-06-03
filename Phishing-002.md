@@ -184,7 +184,8 @@ Authentication mechanisms were evaluated:
 | Overall Risk            | High |
 
 **Final Classification:** Likely Phishing Attempt
- URL risk was assessed as High based on threat intelligence detections (10/92 vendors) despite the URL being inaccessible during analysis.
+
+ (URL risk was assessed as High based on threat intelligence detections (10/92 vendors) despite the URL being inaccessible during analysis.)
 
 ---
 
