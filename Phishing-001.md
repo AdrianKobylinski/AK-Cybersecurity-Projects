@@ -30,7 +30,10 @@ The content was designed to create urgency and pressure the recipient into quick
 ## 2: Header Extraction and Initial Inspection
 
 The full email headers were extracted for further investigation. The following key fields were identified for analysis:
+
 <img width="1910" height="801" alt="image" align="center" src="https://github.com/user-attachments/assets/ca3926fd-a41a-4765-a6a8-f1dcbaabc273" />
+
+<img width="586" height="163" align="center" alt="image" src="https://github.com/user-attachments/assets/9930f7bd-5595-491e-a77e-7958cd1be52a" />
 
 From: banco.bradesco@atendimento.com.br
 
@@ -41,8 +44,6 @@ Received: from ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06 (137.184.34.4)
 Message-Id: <20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>
 
 Authenthication-Results:
-
-<img width="586" height="163" align="center" alt="image" src="https://github.com/user-attachments/assets/9930f7bd-5595-491e-a77e-7958cd1be52a" />
 
 
 spf= temperror
