@@ -33,17 +33,23 @@ The full email headers were extracted for further investigation. The following k
 <img width="1910" height="801" alt="image" align="center" src="https://github.com/user-attachments/assets/ca3926fd-a41a-4765-a6a8-f1dcbaabc273" />
 
 From: banco.bradesco@atendimento.com.br
+
 Return-Path: root@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06
+
 Received: from ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06 (137.184.34.4)
+
 Message-Id: <20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>
 
 Authenthication-Results:
-<img width="1911" height="635" align="center" alt="Pasted image 20260603004919" src="https://github.com/user-attachments/assets/35c9a0d3-8983-4856-abb3-ded28641e7dd" />
- src="https://github.com/user-attachments/assets/209cf671-a124-4ac1-bff8-e40d056ce056" />
+<img width="586" height="163" align="center" alt="image" src="https://github.com/user-attachments/assets/9930f7bd-5595-491e-a77e-7958cd1be52a" />
+
 
 spf= temperror
+
 Received-SPF: TempError
+
 dkim= none
+
 dmarc= temperror
 
 Received Date Tue, 19 Sep 2023 18:36:46 +0000
@@ -177,6 +183,8 @@ Additionally, this exercise reinforced the value of threat intelligence enrichme
 
 ###Sources:
 Phishing E-mail source: https://github.com/rf-peixoto/phishing_pot/tree/main/email
+
 MxToolbox
+
 Virustotal
 
