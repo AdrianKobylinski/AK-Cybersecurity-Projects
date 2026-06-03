@@ -211,7 +211,7 @@ Multiple inconsistencies between sender identity, infrastructure origin, and aut
 ## 13. References
 
 - RF Peixoto – Phishing Email Dataset  
-  https://github.com/rf-peixoto/phishing_pot/blob/main/email/sample-1.eml  
+  https://github.com/rf-peixoto/phishing_pot/blob/main/email/sample-10.eml  
 
 - VirusTotal  
   https://www.virustotal.com  
