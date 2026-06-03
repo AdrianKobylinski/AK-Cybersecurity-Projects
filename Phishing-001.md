@@ -182,7 +182,7 @@ Additionally, this exercise reinforced the value of threat intelligence enrichme
 * Document the findings and indicators for future phishing investigations.
 * Use this case as a training example to improve user awareness regarding reward-based phishing campaigns.
 
-###Sources:
+### Sources:
 Phishing E-mail source: https://github.com/rf-peixoto/phishing_pot/tree/main/email
 
 MxToolbox
