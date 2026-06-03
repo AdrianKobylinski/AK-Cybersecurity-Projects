@@ -159,7 +159,8 @@ External reputation sources were checked:
 * VirusTotal: 1/91 vendors flagged the IP as malicious
 * MXToolbox: 1/61 blacklist detection
 
-<img width="1591" height="350" alt="image" src="https://github.com/user-attachments/assets/" />
+<img width="1591" height="350" alt="image" src="https://github.com/user-attachments/assets/f9cf3821-cd05-4ff0-ac77-5091b9e1d0d8" />
+
 
 * Hosting provider: DigitalOcean (AS14061)
 
