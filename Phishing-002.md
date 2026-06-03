@@ -187,13 +187,8 @@ Authentication mechanisms were evaluated:
 
 ---
 
-## 12. Limitations of Analysis
 
-The phishing URL could not be fully analyzed dynamically (no live interaction with landing page or payload execution). Attribution of infrastructure is based on IP ownership data and may not reflect attacker origin due to potential proxying or relays.
-
----
-
-## 13. Conclusion
+## 12. Conclusion
 
 The analyzed email demonstrates strong indicators of a phishing attempt using impersonation of Microsoft security services combined with infrastructure hosted on VPS providers.
 
@@ -203,7 +198,7 @@ Multiple inconsistencies between sender identity, infrastructure origin, and aut
 
 ---
 
-## 14. References
+## 13. References
 
 - RF Peixoto – Phishing Email Dataset  
   https://github.com/rf-peixoto/phishing_pot/blob/main/email/sample-1.eml  
