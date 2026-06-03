@@ -1,13 +1,13 @@
-#Phishing E-mail source: https://github.com/rf-peixoto/phishing_pot/tree/main/email
+#P	hishing E-mail source: https://github.com/rf-peixoto/phishing_pot/tree/main/email
 
-##Introduction
+##	Introduction
 This laboratory exercise is conducted for educational purposes only and is intended to develop practical skills in the field of cybersecurity analysis.
 The subject of this task is an email message provided within the lab environment. The email will be treated as a case study for analysis, including examination of its structure, content, and potential security implications.
 In the following sections, the email will be presented in detail, followed by a systematic analysis focusing on identifying possible threats, indicators of malicious activity, and relevant security considerations.
 
 <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/03247b36-31b9-469b-8df1-c47e69353307" />
 
-##Google translated E-mail:
+##	Google translated E-mail:
 You have Livelo points on your Bradesco Bank card that expire TODAY. Avoid losing these points by redeeming them for Visa Infinite points right now.
 	
 	Bradesco Bank customers earn Livelo points every time they use their debit or credit cards; accumulating them is quick and easy.
