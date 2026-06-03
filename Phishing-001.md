@@ -33,6 +33,7 @@ The full email headers were extracted for further investigation. The following k
 
 <img width="1910" height="801" alt="image" align="center" src="https://github.com/user-attachments/assets/ca3926fd-a41a-4765-a6a8-f1dcbaabc273" />
 
+
 <img width="586" height="163" align="center" alt="image" src="https://github.com/user-attachments/assets/9930f7bd-5595-491e-a77e-7958cd1be52a" />
 
 From: banco.bradesco@atendimento.com.br
