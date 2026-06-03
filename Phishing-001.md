@@ -263,7 +263,7 @@ Although the URL was unreachable, the collected evidence is sufficient to classi
 ## 17. References
 
 * RF Peixoto – Phishing Email Dataset
-  https://github.com/rf-peixoto/phishing_pot
+  https://github.com/rf-peixoto/phishing_pot/blob/main/email/sample-1.eml
 
 * VirusTotal
   https://www.virustotal.com
