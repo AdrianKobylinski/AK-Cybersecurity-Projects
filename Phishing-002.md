@@ -8,9 +8,14 @@
 
 ## Executive Summary
 
+This analysis examined a suspected phishing email impersonating Microsoft account security services. The investigation included header inspection, infrastructure attribution, email authentication validation, and URL reputation analysis.
 
+Multiple indicators of compromise were identified, including sender spoofing, VPS-based hosting infrastructure, and failed or missing email authentication mechanisms (SPF, DKIM, and DMARC permerror). Additionally, the embedded URL showed partial malicious reputation across security vendors.
 
-**Final Verdict:** 
+The combination of social engineering techniques and technical inconsistencies strongly indicates malicious intent aimed at credential harvesting.
+
+**Final Verdict:** Likely phishing attempt with high confidence based on email header and infrastructure analysis.
+
 
 ---
 
@@ -100,6 +105,11 @@ Authentication mechanisms were evaluated:
 10/92 security vendors flagged this URL as malicious
 
 <img width="643" height="162" alt="image" src="https://github.com/user-attachments/assets/d78a1568-9e51-4394-a487-4242c2caba54" />
+
+**The referenced URL was inaccessible during the investigation. Consequently, dynamic analysis of the phishing landing page, redirects, and potential payloads could not be performed.**
+
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/35cf028f-b81a-41e0-95c8-9010858c8676" />
+
 
 
 ## 8. Key Findings
