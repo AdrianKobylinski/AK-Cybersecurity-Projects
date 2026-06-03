@@ -28,6 +28,9 @@ The analyzed email was treated as a case study. The investigation focused on ide
 
 ## 2. Email Content Review
 
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/8d0e6d00-5910-457f-aa5e-d981a8755871" />
+
+
 The email impersonated Bradesco Bank (Livelo) and falsely claimed that reward points were about to expire.
 
 The message relied on common social engineering techniques, including:
