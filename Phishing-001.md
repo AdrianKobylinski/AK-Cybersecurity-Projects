@@ -38,9 +38,7 @@ Received: from ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06 (137.184.34.4)
 Message-Id: <20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>
 
 Authenthication-Results:
-<img width="970" height="245" alt="image" align="center"<img width="1911" height="635" alt="Pasted image 20260603004919" src="https://github.com/user-attachments/assets/1c03db4d-8754-4a5e-ae7f-402a55fdc8b5" />
-<img width="1911" height="635" alt="Pasted image 20260603004919" src="https://github.com/user-attachments/assets/8641ca61-fb35-4a84-955f-be1b5c03276f" />
-<img width="1911" height="635" alt="Pasted image 20260603004919" src="https://github.com/user-attachments/assets/35c9a0d3-8983-4856-abb3-ded28641e7dd" />
+<img width="1911" height="635" align="center" alt="Pasted image 20260603004919" src="https://github.com/user-attachments/assets/35c9a0d3-8983-4856-abb3-ded28641e7dd" />
  src="https://github.com/user-attachments/assets/209cf671-a124-4ac1-bff8-e40d056ce056" />
 
 spf= temperror
